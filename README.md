@@ -1,3 +1,6 @@
+
+###  Bhuneshwar Netam 21MI31026 ###
+
 # Janta AI - India's Collective Brain 🧠
 
 Janta AI is an AI-first, social decision-making platform built specifically for the Indian market. It allows users to ask major life, career, and financial questions, and receive a highly personalized AI recommendation backed by real voting data from "people like you" (peers matching your age, career stage, and goals).
